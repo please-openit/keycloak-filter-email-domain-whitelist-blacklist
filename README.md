@@ -4,7 +4,7 @@ This FormAction filter (blacklist or whitelist) email domains based on a registr
 
 ## Build
 
-This project uses Maven, needs at least JDK 2x1 (openjdk).
+This project uses Maven, needs at least JDK 21 (openjdk).
 
 ```
 mvn clean install
